@@ -8,9 +8,19 @@ poi chiedi il suo colore preferito<br>
 Infine scrivi sulla pagina nomecognomecolorepreferito23<br>
 Regole da seguire<br>
 Tre push obbligatori:<br>
-1 - Creazione della repo;<br>
-2 - Creazione del file readme.md<br>
-3 - Creazione dello scaffolding del progetto;<br>
+1. Creazione della repo;<br>
+2. Creazione del file readme.md<br>
+3. Creazione dello scaffolding del progetto;<br>
+
 Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live coding sul calcolo della data di nascita e messaggio di benvenuto mostrato in pagina<br>
 Buon lavoro e buon weekend, a lunedì!<br>
 P.S. Oggi come avete potuto notare, avrete due blocchi di slides
+
+
+1. Chiedi il nome
+2. Salva nella variabile "nomee"
+3. Chiedi cognome
+4. Salva in "cognome"
+5. Chiedi colore preferito
+6. Salva in "colore"
+7. unisci le variabili in "passoword" e aggiungi il caratteri "21"
