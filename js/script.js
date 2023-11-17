@@ -8,4 +8,6 @@ let colore = prompt("Inserisci un colore preferito:");
 console.log("Colore:", colore);
 
 let password = nome + cognome + colore + "23";
-console.log("Passowrd:", password)
+console.log("Passowrd:", password);
+
+document.getElementById("password").innerHTML = "Password: " + password;
